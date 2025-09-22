@@ -7,10 +7,10 @@ This repository contains open-source code, data, & text files for the project ex
 ## Project Goals
 
 * **Aim 1)**
+* Characterize the cecal microbiome of Icelandic rock ptarmigan over a 12-year study period (2007-2018)
 
 * **Aim 2)**
-
-* **Aim 3)**
+* Determine if the cecal microbiome predicts metrics of foraging behavior, diet digestibility, and body condition over time
 
 ### Repo Contents
 
