@@ -13,10 +13,10 @@ This repository contains open-source code, data, & text files for the project ex
 ### Repo Contents
 
 * **Analyses:**
-DiversityFunctions.R -- R functions for calculating alpha diversity
-MothurTools.R -- R tools to analyze data output from the mothur software pipeline
-Ptarmi-GUTT_processing.r -- R script for analyzing microbiome data 
-Ptarmi-GUTT_figures.R -- R script for generating figures 
+*DiversityFunctions.R -- R functions for calculating alpha diversity
+*MothurTools.R -- R tools to analyze data output from the mothur software pipeline
+*Ptarmi-GUTT_processing.r -- R script for analyzing microbiome data 
+*Ptarmi-GUTT_figures.R -- R script for generating figures 
 
 * **Data:**
 Raw metadata:
