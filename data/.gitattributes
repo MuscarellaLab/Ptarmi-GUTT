@@ -1,0 +1,2 @@
+GUTT.trim.contigs.good.unique.good.filter.good.unique.precluster.denovo.vsearch.pick.ASV.abund.asv.shared filter=lfs diff=lfs merge=lfs -text
+asv_rel.csv filter=lfs diff=lfs merge=lfs -text
